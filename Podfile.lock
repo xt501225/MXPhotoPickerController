@@ -1,0 +1,13 @@
+PODS:
+  - JFImagePicker (1.0.0)
+  - Masonry (0.6.3)
+
+DEPENDENCIES:
+  - JFImagePicker
+  - Masonry
+
+SPEC CHECKSUMS:
+  JFImagePicker: 2914c69dac80767a98664e768ac50118664e9f04
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+
+COCOAPODS: 0.39.0
